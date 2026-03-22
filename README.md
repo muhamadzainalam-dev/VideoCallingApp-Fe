@@ -21,6 +21,7 @@ Real-time communication application using **WebRTC** for peer-to-peer media with
 - **Realtime Signaling:** Socket.IO Client (`socket.io-client`)
 - **Media/Playback:** React Player
 - **Code Quality:** ESLint + React Hooks/Refresh plugins
+- **WebRTC:** RTCPeerConnection, MediaDevices (getUserMedia), ICE candidates, SDP offer/answer flow
 
 ---
 
